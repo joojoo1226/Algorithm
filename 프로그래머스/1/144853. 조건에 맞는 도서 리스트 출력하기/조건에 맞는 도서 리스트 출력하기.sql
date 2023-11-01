@@ -1,4 +1,3 @@
--- 코드를 입력하세요
 SELECT 
     BOOK_ID
     , TO_CHAR(PUBLISHED_DATE, 'YYYY-mm-dd') AS "PUBLISHED_DATE"
